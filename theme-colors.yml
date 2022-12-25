@@ -1,0 +1,14 @@
+blue:
+  colors:
+    - primary: '#ABD2FA'
+    - secondary: '#7692FF'
+
+red: 
+  colors:
+    - primary: '#BA324F'
+    - secondary: '#D62839'
+
+yellow:
+  colors:
+   - primary: '#FCFDAF'
+   - secondary: '#EFD780'
